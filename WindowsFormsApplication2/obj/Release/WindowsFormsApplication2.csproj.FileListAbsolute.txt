@@ -1,0 +1,9 @@
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Master\Desktop\LeongXiang-s-AutoClicker\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
